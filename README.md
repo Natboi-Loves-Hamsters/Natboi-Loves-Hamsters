@@ -7,5 +7,5 @@
   
 - 📫 How to reach me: Discord, but only if you're cool.
   
-- ⚡ Fun fact: Pi to the accuracy of 100000 digits using my algorithm with a wrap of 4 in binary has an amongus ending at digit 23724
+- ⚡ Fun fact: Pi to the accuracy of 100000 digits using some algorithm with a wrap of 4 in binary has an amongus ending at digit 23724
 
