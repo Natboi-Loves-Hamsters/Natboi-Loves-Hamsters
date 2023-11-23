@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there.
 
-<!--
-**Natboi-Loves-Hamsters/Natboi-Loves-Hamsters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am natBoi, a really bad programmer with little to no knowledge.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on finding images (like amongus pixel art) in pi
+  
+- 🌱 I’m currently learning Python, still. Even after learning it for years.
+  
+- 📫 How to reach me: Discord, but only if you're cool.
+  
+- ⚡ Fun fact: Pi to the accuracy of 100000 digits using my algorithm with
+- a wrap of 4 in binary has an amongus ending at digit 23724
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
